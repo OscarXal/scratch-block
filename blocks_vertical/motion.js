@@ -60,8 +60,8 @@ Blockly.Blocks['motion_turnright'] = {
         {
           "type": "field_image",
           "src": Blockly.mainWorkspace.options.pathToMedia + "rotate-right.svg",
-          "width": 24,
-          "height": 24
+          "width": 100,
+          "height": 100
         },
         {
           "type": "input_value",
